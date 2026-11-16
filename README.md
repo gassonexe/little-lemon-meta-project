@@ -15,6 +15,7 @@ Capstone project for the Meta Front-End Developer Professional Certificate: a re
 React 18 · React Router · react-hook-form · Yup · styled-components · Framer Motion
 
 ## Run locally
+    cd "little lemon meta project"
     npm install
     npm start
 
